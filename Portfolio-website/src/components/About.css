@@ -59,6 +59,11 @@
 .exp-years {
   font-size: 23px;
   color: #111;
+  white-space: nowrap;
+}
+
+.exp-item > div {
+  padding-left: 43%;
 }
 
 .exp-role {
@@ -79,6 +84,18 @@
   font-weight: 450;
 }
 
+@media (max-width: 1200px) and (min-width: 901px) {
+  .exp-item > div {
+    padding-left: 42%;
+  }
+}
+
+@media (max-width: 900px) and (min-width: 601px) {
+  .exp-item > div {
+    padding-left: 38%;
+  }
+}
+
 @media (max-width: 600px) {
   .about-section {
     padding: 4rem 1.2rem 3rem;
@@ -92,4 +109,10 @@
     grid-template-columns: 1fr;
     gap: 0.4rem;
   }
+
+  .exp-item > div {
+  padding-left: 0;
 }
+
+}
+

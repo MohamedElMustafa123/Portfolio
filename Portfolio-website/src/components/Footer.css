@@ -70,11 +70,23 @@
   border-top: 0.5px solid #eee;
 }
 
-.linkedin-link {
+.footer-social-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-link {
   color: black;
   transition: color 0.2s ease;
+  display: flex;
+  align-items: center;
 }
 
 .linkedin-link:hover {
   color: #0077b5;
+}
+
+.github-link:hover {
+  color: #6e40c9;
 }
