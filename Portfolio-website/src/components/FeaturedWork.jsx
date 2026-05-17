@@ -4,6 +4,7 @@ import './FeaturedWork.css'
 import hound from '../assets/hound.png'
 import gamereview from '../assets/Gamereview.png'
 import pokemon from '../assets/pokemon.png'
+import focus from '../assets/Focusentrix.png'
 
 
 //projects in the feauted work sections can add more whenever.
@@ -16,10 +17,10 @@ const projects = [
     side: 'left'
   },
   {
-    title: 'Game Review Web app',
-    description: 'Developed a web application that allows users to favorite games, write reviews, and browse reviews from other users, with backend functionality and RESTful API integration.',
-    image: gamereview,
-    href: 'https://youtu.be/I_aFI1HI4wU',
+    title: 'Focusentrix - Focus/Producitivty Web App',
+    description: 'A productivity web app that helps users stay focused using real-time attention monitoring with MediaPipe. It includes features like a Pomodoro timer, to-do list, and focus analytics, all built with React and Tailwind CSS in a responsive design.',
+    image: focus,
+    href: 'https://focusentrix.vercel.app/',
     side: 'right'
   },
   {
