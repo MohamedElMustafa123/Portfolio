@@ -3,7 +3,7 @@ import './About.css'
 
 //array that stores work experince, add more data as you gain experience
 const experience = [
-  { years: 'FEBRUARY 2025 – JULY 2025', role: 'Beary Bites, Front-End Developer Intern', location: 'Hybrid', detail: "Designed and developed website using Wix. Collaborated in a team of 6. Communicated clearly with staff to explain options and solutions. Focused on usbaility and responsive UI" },
+  { years: 'FEBRUARY 2025 – MAY 2025', role: 'Beary Bites, Front-End Developer Intern', location: 'Hybrid', detail: "Designed and developed website using Wix. Collaborated in a team of 6. Communicated clearly with staff to explain options and solutions. Focused on usbaility and responsive UI" },
   { years: 'MAY 2025 – JULY 2025', role: 'Al Karnak Engineering Consultants, IT Support, Intern', location: 'On Site', detail: "Provided day to day software and hardware troubleshooting for engineers. Diagnosed and resolved technical issues efficently helping maintain smooth workflow and reducing downtime. Communicated clearly with staff to explain options and solutions." },
 ]
 
