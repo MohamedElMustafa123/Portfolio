@@ -17,7 +17,7 @@ const projects = [
     side: 'left'
   },
   {
-    title: 'Focusentrix - Focus/Producitivty Web App',
+    title: 'Focusentrix',
     description: 'A productivity web app that helps users stay focused using real time attention monitoring with MediaPipe. It includes features like a Pomodoro timer, to-do list, and focus analytics, all built with React and Tailwind CSS.',
     image: focus,
     href: 'https://focusentrix.vercel.app/',
