@@ -1,5 +1,5 @@
 import './Hero.css'
-import photo from '../assets/Headshot.png'
+import photo from '../assets/headshot2.JPG'
 
 export default function Hero() {
   //hero section format
